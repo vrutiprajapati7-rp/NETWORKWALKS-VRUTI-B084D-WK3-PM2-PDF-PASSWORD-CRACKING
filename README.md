@@ -72,7 +72,8 @@ Successfully completed both Week 3 practical modules:
 
 ## **📸 Screenshots & Evidence**
  NetworkWalks Hash Calculator & Password Cracker
- <img width="640" height="822" alt="Screenshot (616)" src="https://github.com/user-attachments/assets/cd40c999-5235-4573-bf12-7ce3b7c44f68" /> John the Ripper & Johnny GUI
+ <img width="640" height="822" alt="Screenshot (616)" src="https://github.com/user-attachments/assets/cd40c999-5235-4573-bf12-7ce3b7c44f68" /> 
+ John the Ripper & Johnny GUI
 <img width="545" height="804" alt="Screenshot (617)" src="https://github.com/user-attachments/assets/6c707147-4380-4e3c-aec8-7779d5a9455f" />
 
 ## ** Acknowledgement**
